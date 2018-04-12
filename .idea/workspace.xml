@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83ef7dae-98c7-4dd3-86cf-6d7823a58914" name="Default" comment="" />
+    <list default="true" id="83ef7dae-98c7-4dd3-86cf-6d7823a58914" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GameStatusProject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/GameStatusProject-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GameStatusProject-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/GameStatusProject-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Application.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,35 +127,6 @@
             <path>
               <item name="GameStatusProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="GameStatusProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GameStatusProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GameStatusProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GameStatusProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GameStatusProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GameStatusProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GameStatusProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GameStatusProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GameStatusProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GameStatusProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GameStatusProject" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,11 +266,11 @@
       <window_info anchor="bottom" id="Heroku" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" visible="true" weight="0.32970452" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32909092" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32909092" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32909092" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32909092" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32909092" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -371,6 +349,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
